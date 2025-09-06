@@ -1,0 +1,1 @@
+let myFirstBoolean: boolean = true // or false 
